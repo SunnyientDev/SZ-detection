@@ -5,6 +5,7 @@
 A. D. Oronovskaya, O. V. Verkhodanov, A. P. Topchieva, D. A. Shorin, S.F. Bazrov.
 
 **Abstract**
-В работе предложен метод поиска объектов с эффектом Сюняева-Зельдовича с помощью свёрточной нейронной сети ResNet18. Используемый метод машинного обучения позволит ускорить селекцию кандидатов в скопления галактик с СЗ-эффектом.
+The paper proposes a method for searching for objects with the Sunyaev-Zeldovich effect using the convolutional neural network ResNet18. The machine learning method used will make it possible to speed up the selection of candidates for SZ-effect galaxy clusters.
 
-Каталог для распознавания радиоисточников составлен с помощью схемы пикселизации GLESP [GLESP](http://www.apc.univ-paris7.fr/~radek/s2hat/docs/glesp.html) (Gauss-Legendre Sky Pixelization) íà
+The catalog for identifying radio sources was compiled using the [GLESP] pixelation scheme (http: //www.apc.univ-
+paris7.fr/~radek/s2hat/docs/glesp.html) (Gauss-Legendre Sky Pixelization) at frequencies: 100, 143, 217, 353, 545 GHz. In this work, it is shown that this approach can be applied to the analysis of data sets, which will make it possible to select the most probable candidates for galaxy clusters at high redshifts using an accelerated procedure.
