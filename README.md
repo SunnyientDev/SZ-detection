@@ -2,7 +2,7 @@
 [link]
 
 ## Authors
-A. D. Oronovskaya, O. V. Verkhodanov, A. P. Topchieva, D. A. Shorin, S.F. Bazrov.
+A. D. Oronovskaya, O. V. Verkhodanov, A. P. Topchieva, D. A. Shorin, S. A. Bazrov.
 
 **Abstract**
 The paper proposes a method for searching for objects with the Sunyaev-Zeldovich effect using the convolutional neural network ResNet18. The machine learning method used will make it possible to speed up the selection of candidates for SZ-effect galaxy clusters.
