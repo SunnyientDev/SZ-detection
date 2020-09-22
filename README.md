@@ -8,3 +8,4 @@ The paper proposes a method for searching for objects with the Sunyaev-Zeldovich
 
 The catalog for identifying radio sources was compiled using the [GLESP](http://www.apc.univ-paris7.fr/~radek/s2hat/docs/glesp.html) (Gauss-Legendre Sky Pixelization) pixelation scheme  at frequencies: 100, 143, 217, 353, 545 GHz. In this work, it is shown that this approach can be applied to the analysis of data sets, which will make it possible to select the most probable candidates for galaxy clusters at high redshifts using an accelerated procedure.
 
+The authors express their gratitude to the Traektoria Foundation for Support of Scientific, Cultural and Educational Initiatives, V. S. Ivashkin for assistance in carrying out this work.
