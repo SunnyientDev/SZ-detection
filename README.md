@@ -1,6 +1,6 @@
 # Search for the Sunyaev-Zeldovich effect on the maps of microwave background radiation from the Planck space mission.
 
-[Link to the full text of our article: ](https://arxiv.org/abs/2104.10189)
+[Full text of our article](https://arxiv.org/abs/2104.10189)
 
 Authors: A. D. Oronovskaya, O. V. Verkhodanov, A. P. Topchieva, D. A. Shorin, S. A. Bazrov.
 
